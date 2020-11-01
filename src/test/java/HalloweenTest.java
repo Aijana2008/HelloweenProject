@@ -1,6 +1,4 @@
 public class HalloweenTest {
 
-    public static void main(String[] args) {
-        System.out.println("Hello tedst");
-    }
+   // i am about to give everyone candy for halloween
 }
